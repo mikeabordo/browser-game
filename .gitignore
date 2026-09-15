@@ -1,0 +1,5 @@
+
+# The Cadeplay token lives here. Never commit it.
+.env
+.env.*
+!.env.example
